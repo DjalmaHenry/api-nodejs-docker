@@ -82,15 +82,6 @@ cd /usr/local/lsws/admin/misc
 ./admpass.sh
 ```
 
-## Autores
-
-- **Gabriel Froes** - _Initial work_ - [Twitter](https://www.twitter.com/gabrielfroes)
-- **Vanessa Weber** - _Initial work_ - [Twitter](https://www.twitter.com/nessaweberfroes)
-
-## Youtube Channel
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuIUoyHB12qpYa8Jpxoxow?style=social)
-
 ## Licença
 
 Esse projeto está sob a licença [GNU General Public License](https://opensource.org/licenses/GPL-3.0).
