@@ -8,10 +8,10 @@ app.listen(port, () => {
 
 app.get("/", (req, res, next) => {
   res.json(
-    `Seja bem vindo ao VPS rodando Node.JS pelo Docker na porta ${port}`
+    `Seja bem vindo a API rodando Node.JS pelo Docker na porta ${port}`
   );
 });
 
-app.get("/cdfs", (req, res, next) => {
-  res.json(["Gabriel Fróes", "Vanessa Weber"]);
+app.get("/persons", (req, res, next) => {
+  res.json(["Djalma Henrique", "Rafael Roque"]);
 });
